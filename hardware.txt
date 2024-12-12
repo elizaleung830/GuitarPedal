@@ -1,1 +1,5 @@
+1. SCB:
+teensy 4.0
 
+2. I/O
+teensy audio sheid
